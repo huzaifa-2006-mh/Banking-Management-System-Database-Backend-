@@ -1,0 +1,1 @@
+CREATE INDEX idx_acc ON account(customer_id);
